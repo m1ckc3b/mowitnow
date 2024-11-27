@@ -56,5 +56,5 @@ The next improvements I see:
 - implementing a CLI,
 - handling the mower's position so that avoid leaving the area, 
 - handling error,
-- translating commands in english (G->L, D->R),
+- ~~translating commands in english (G->L, D->R),~~
 and perhaps another helpful commands.
