@@ -1,7 +1,8 @@
 # MowItNow
 
-Objective of this technical exercise is to implement the given specifications in any language. 
-I chose to use Rust🦀 .
+Objective of this technical exercise is to implement the given specifications in any high-level language.
+
+I chose to use Rust 🦀
 
 I started by definning what the mower needs like lawn's size, its position in this garden, etc. After drawning a garden and the mower's movements I determined the directions based on current orientation.  
 
@@ -55,4 +56,5 @@ The next improvements I see:
 - implementing a CLI,
 - handling the mower's position so that avoid leaving the area, 
 - handling error,
+- translating commands in english (G->L, D->R),
 and perhaps another helpful commands.
