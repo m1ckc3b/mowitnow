@@ -1,9 +1,9 @@
 MowItNow
 ========
 
-Le dépôt contient une implémentation en java de l'exercice de la tondeuse "MowItNow".
+Le dépôt contient une implémentation en Rust 🦀 de l'exercice de la tondeuse "MowItNow".
 
-Enoncé de l'exercice:
+<b>Enoncé de l'exercice:</b>
 
 La société MowItNow a décidé de développer une tondeuse à gazon automatique, destinée aux surfaces rectangulaires. La tondeuse peut être programmée pour parcourir l'intégralité de la surface.
 
@@ -28,11 +28,11 @@ Chaque tondeuse se déplace de façon séquentielle, ce qui signifie que la seco
 
 Lorsqu'une tondeuse achève une série d'instruction, elle communique sa position et son orientation.
 
-OBJECTIF
+<b>OBJECTIF</b>
 
-Concevoir et écrire un programme s'exécutant en java, implémentant la spécification ci-dessus et passant le test ci-après. 
+Concevoir et écrire un programme s'exécutant en Rust 🦀, implémentant la spécification ci-dessus et passant le test ci-après. 
 
-TEST
+<b>TEST</b>
 
 Le fichier suivant est fourni en entrée :
 5 5
